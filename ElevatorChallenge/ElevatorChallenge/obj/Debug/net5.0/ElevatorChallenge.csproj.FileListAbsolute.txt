@@ -1,0 +1,16 @@
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\bin\Debug\net5.0\ElevatorChallenge.exe
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\bin\Debug\net5.0\ElevatorChallenge.deps.json
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\bin\Debug\net5.0\ElevatorChallenge.runtimeconfig.json
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\bin\Debug\net5.0\ElevatorChallenge.runtimeconfig.dev.json
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\bin\Debug\net5.0\ElevatorChallenge.dll
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\bin\Debug\net5.0\ElevatorChallenge.pdb
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.csproj.AssemblyReference.cache
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.AssemblyInfoInputs.cache
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.AssemblyInfo.cs
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.dll
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\refint\ElevatorChallenge.dll
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.pdb
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ElevatorChallenge.genruntimeconfig.cache
+C:\Users\Phiwe\Downloads\ElevatorChallenge\ElevatorChallenge\obj\Debug\net5.0\ref\ElevatorChallenge.dll
